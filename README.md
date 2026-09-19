@@ -13,7 +13,7 @@ Gateway-X6; STM32 mikrokontrolcü mimarisi, harici SDRAM arayüzü ve endüstriy
 ![PCB Çizimi](Gateway-X6.pcb.png)
 
 ### 3. Şematik Tasarım
-![Şematik Tasarım](Gateway-X6.kch.png)
+![Şematik Tasarım](Gateway-X6.sch.png)
 
 ---
 
